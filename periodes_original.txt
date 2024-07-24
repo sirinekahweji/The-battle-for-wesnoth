@@ -1,0 +1,6 @@
+1 Aube 0 0 0 0
+2 JourMatin 25 -25 -25 0
+3 JourApresMidi 25 -25 -25 0
+4 Crepuscule 0 0 0 0 
+5 NuitPremierQuart -25 25 -25 0
+6 NuitDeuxiemeQuart -25 25 -25 0 
